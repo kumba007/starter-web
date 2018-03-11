@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-The package deployment instruction will come under here.
+The package deployment instruction will come under here.This is just onliner to added for rebase example
 
 ## Team 
 
