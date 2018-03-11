@@ -8,11 +8,11 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-The package deployment instruction will come under here
+The package deployment instruction will come under here.
 
 ## Team 
 
-Vetriselvan is the one man Army
+Vetriselvan (a) Kumbadev is the one man Army
 
 ## Created by: KuMbA
 
